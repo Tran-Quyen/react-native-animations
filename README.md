@@ -1,7 +1,18 @@
 # React Native Animations
-**Subscribe to Minh Techie channel for in-depth tutorials**
+**Subscribe to Minh Techie channel**
 
 https://www.youtube.com/channel/UCGxA-PuYBXinpwGawUqEYpg
 
-https://user-images.githubusercontent.com/68360917/160903047-a022d8a9-a4d4-46c7-948c-4cbf67fc1bd0.mp4
+**Join Facebook community**
 
+https://www.facebook.com/groups/minhtechie
+
+**Tune in for shorts**
+
+https://www.tiktok.com/@minhtechie
+
+**Support me**
+
+https://www.buymeacoffee.com/minhtechiejs  
+
+<img src="https://user-images.githubusercontent.com/68360917/160903955-69ba14de-8068-4cb4-b773-b135e996497d.png" width="200" height="200" />
