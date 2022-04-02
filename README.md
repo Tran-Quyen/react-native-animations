@@ -15,4 +15,12 @@ https://www.tiktok.com/@minhtechie
 
 https://www.buymeacoffee.com/minhtechiejs  
 
-<img src="https://user-images.githubusercontent.com/68360917/160903955-69ba14de-8068-4cb4-b773-b135e996497d.png" width="200" height="200" />
+
+
+
+https://user-images.githubusercontent.com/68360917/161382950-0acd15c9-c94c-4c64-aa0e-a6ca5d15b1bd.mov
+
+
+
+https://user-images.githubusercontent.com/68360917/161382965-de52c94f-a21f-403b-aa7e-4bda50cc9e8d.mp4
+
