@@ -1,4 +1,5 @@
 # React Native Animations
+
 **Subscribe to Minh Techie channel**
 
 https://www.youtube.com/channel/UCGxA-PuYBXinpwGawUqEYpg
@@ -16,11 +17,4 @@ https://www.tiktok.com/@minhtechie
 https://www.buymeacoffee.com/minhtechiejs  
 
 
-
-
-https://user-images.githubusercontent.com/68360917/161382950-0acd15c9-c94c-4c64-aa0e-a6ca5d15b1bd.mov
-
-
-
-https://user-images.githubusercontent.com/68360917/161382965-de52c94f-a21f-403b-aa7e-4bda50cc9e8d.mp4
-
+https://user-images.githubusercontent.com/68360917/163237335-f8295291-638b-4aad-848d-643730426eb2.mov
