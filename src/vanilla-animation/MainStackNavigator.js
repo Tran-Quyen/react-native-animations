@@ -14,6 +14,7 @@ import PickPhoneColor from './PickPhoneColor/PickPhoneColor';
 import TikTokTabNavigator from './TikTok/TikTokTabNavigator';
 import ReactToMessage from './ReactToMessage/ReactToMessage';
 import DoubleTapToHeart from './DoubleTapToHeart/DoubleTapToHeart';
+import Momo from './Momo/Momo';
 
 const Stack = createNativeStackNavigator();
 
@@ -23,6 +24,11 @@ export default () => (
       screenOptions={{
         headerBackTitle: '',
       }}>
+      <Stack.Screen
+        name="Momo"
+        component={Momo}
+        options={{header: () => null}}
+      />
       <Stack.Screen
         name="HomeScreen"
         component={HomeScreen}
@@ -67,7 +73,7 @@ export default () => (
       <Stack.Screen
         name="ReactToMessage"
         component={ReactToMessage}
-        options={{title: 'React To Message'}}
+        options={{header: () => null}}
       />
       <Stack.Screen
         name="DoubleTapToHeart"
