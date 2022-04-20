@@ -1,16 +1,30 @@
 # React Native Animations
 
-**Subscribe to Minh Techie channel**
+## Installation
+
+Using npm:
+
+```shell
+npm install
+```
+
+or using yarn:
+
+```shell
+yarn
+```
+
+Run `npx pod-install`
+
+## Join Minh Techie community
+
+**Youtube**
 
 https://www.youtube.com/channel/UCGxA-PuYBXinpwGawUqEYpg
 
-**Join Facebook community**
+**Facebook**
 
 https://www.facebook.com/groups/minhtechie
-
-**Tune in for shorts**
-
-https://www.tiktok.com/@minhtechie
 
 **Support me**
 
